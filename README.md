@@ -1,5 +1,5 @@
 # comic-list
-<center>
+<div align="center">
 
 | No  | Title                                  | Type   |
 | --- | -------------------------------------- | ------ |
@@ -15,4 +15,4 @@
 | 10  | Omniscient Reader's Viewpoint          | Manhwa |
 | 11  | Return Of The Broken Constellation     | Manhwa |
 | 12  | The World After The Fall               | Manhwa |
-</center>
+</div>
